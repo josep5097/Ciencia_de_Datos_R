@@ -4,7 +4,10 @@
 
 # Session Data files
 .RData
+<<<<<<< HEAD
 .RDataTmp
+=======
+>>>>>>> 5938f8bd5fbc113191f7621be3a711cefdbe40b2
 
 # User-specific files
 .Ruserdata
@@ -38,6 +41,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+<<<<<<< HEAD
 
 # pkgdown site
 docs/
@@ -52,3 +56,5 @@ rsconnect/
 Info
 Exports
 Docs
+=======
+>>>>>>> 5938f8bd5fbc113191f7621be3a711cefdbe40b2
